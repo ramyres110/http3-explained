@@ -1,45 +1,33 @@
-# HTTP/3 explained
+# Português - Brazil
 
-This book effort was started in March 2018. The plan is to document HTTP/3 and
-its underlying protocol: QUIC. Why, how they work, protocol details, the
-implementations and more.
+O esforço para criar este livro foi iniciado em março de 2018. O plano é documentar o HTTP/3 e seu protocolo subjacente: QUIC. Por quê, como ele funciona, detalhes do protocolo, as implementações e muito mais.&#x20;
 
-The book is entirely free and is meant to be a collaborative effort
-involving anyone and everyone who wants to help out.
+O livro é totalmente gratuito e pretende ser um esforço colaborativo envolvendo todos e qualquer pessoa que queira ajudar.
 
-## Prerequisites
 
-A reader of this book is presumed to have a basic understanding of TCP/IP
-networking, the fundamentals of HTTP and the web. For further insights and
-specifics about HTTP/2 we recommend first reading up the details in [http2
-explained](https://daniel.haxx.se/http2/).
 
-## Author
+## Pré-requisitos
 
-This book is created and the work is started by [Daniel
-Stenberg](https://daniel.haxx.se/). Daniel is the founder and lead developer
-of [curl](https://curl.haxx.se/), the world's most widely used HTTP client
-software. Daniel has worked with and on HTTP and internet protocols for over
-two decades and is the author of [http2
-explained](https://daniel.haxx.se/http2/).
+Presume-se que um leitor deste livro tenha uma compreensão básica da rede TCP/IP, os fundamentos do protocolo HTTP e da web. Para mais informações e detalhes sobre HTTP/2, recomendamos primeiro ler os detalhes em [http2 explained](https://daniel.haxx.se/http2/).
 
-## Home
+## Autor
 
-The home page for this book is found at
-[daniel.haxx.se/http3-explained](https://daniel.haxx.se/http3-explained).
+This book is created and the work is started by [Daniel Stenberg](https://daniel.haxx.se). Daniel is the founder and lead developer of [curl](https://curl.haxx.se), the world's most widely used HTTP client software. Daniel has worked with and on HTTP and internet protocols for over two decades and is the author of [http2 explained](https://daniel.haxx.se/http2/).
 
-## Help out
 
-If you find mistakes, omissions, errors or blatant lies in this document,
-please send us a refreshed version of the affected paragraph and we will make
-amended versions. We will give proper credits to everyone who helps out. I
-hope to make this document better over time.
 
-Preferably, you submit [errors](https://github.com/bagder/http3-explained/issues)
-or [pull requests](https://github.com/bagder/http3-explained/pulls) on the book's
-GitHub page.
+O trabalho de criação deste livro foi iniciado por [Daniel Stenberg](https://daniel.haxx.se). Daniel é o fundador e desenvolvedor líder do [curl](https://curl.haxx.se), o cliente HTTP mais usado no mundo. Daniel trabalhou com e no  HTTP e  em protocolos da internet por mais de duas décadas e é o autor do [http2 explained](https://daniel.haxx.se/http2/).
 
-## License
+## Página inicial
 
-This document and all its contents are licensed under the [Creative Commons
-Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+A página inicial deste livro encontra-se em [daniel.haxx.se/http3-explained](https://daniel.haxx.se/http3-explained).
+
+## Ajudar
+
+Se você encontrar enganos, omissões, erros ou 'mentiras descaradas' neste documento, envie-nos uma versão atualizada do parágrafo afetado e nós faremos uma nova versão atualizada. Daremos os devidos créditos a todos que ajudarem. Espero melhorar este documento ao longo do tempo.
+
+De preferência, envie os [erros](https://github.com/bagder/http3-explained/issues) ou [pull requests](https://github.com/bagder/http3-explained/pulls) na página do GitHub do livro.
+
+## Licença
+
+Este documento e todo o seu conteúdo estão licenciados sob a [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/).
