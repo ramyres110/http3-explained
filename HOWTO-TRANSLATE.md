@@ -50,6 +50,9 @@ and more.
 - zh-TW(繁體中文)
   - [Wei Jhih Lian](https://github.com/ByronLian)
 
+- pt-BR
+  - [Ramyres](https://github.com/ramyres110)  
+
 ## Commit messages
 
 When committing changes, we use the following commit message format
